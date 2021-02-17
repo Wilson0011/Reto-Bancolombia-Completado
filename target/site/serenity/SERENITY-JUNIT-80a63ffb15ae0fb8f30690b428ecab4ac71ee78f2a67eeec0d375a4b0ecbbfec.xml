@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="uTest" skipped="0" tests="1" time="67.79" timestamp="2021-02-16 06:20:28"><testcase name="Join today to Utest"><failure message="Expected answer&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected answer
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>Expected answer
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+co.com.choucair.certification.baseproject.stepdefinitions.ChoucairAcademyStepDefintions.heFindsTheButtonCalledToCreateUser(ChoucairAcademyStepDefintions.java:34)&#13;
+✽.he finds the button called Cómplete Setup to create user(src/test/resources/features/academyChoucair.feature:14)&#13;
+</system-err></testcase></testsuite>
